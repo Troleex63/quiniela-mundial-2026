@@ -147,12 +147,13 @@ ${p.visitante}
 
 </option>
 
+<option>
+
+Empate
+
+</option>
+
 </select>
-
-<input
-id="r${p.id}"
-
-placeholder="Marcador (ej. 2-1)">
 
 <button
 onclick="apostar('${p.id}')">
@@ -228,16 +229,9 @@ document
 "e"+id
 ).value;
 
-const marcador=
-document
-.getElementById(
-"r"+id
-).value;
-
 if(
 !nombre||
-!apellido||
-!marcador
+!apellido
 ){
 
 alert(
@@ -302,8 +296,6 @@ nombre,
 apellido,
 
 equipo,
-
-marcador,
 
 partido:id,
 
