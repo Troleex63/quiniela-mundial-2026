@@ -6,9 +6,6 @@ const app=express();
 app.use(express.json());
 
 app.use(
-
-"/quiniela2026",
-
 express.static(
 "public"
 )
