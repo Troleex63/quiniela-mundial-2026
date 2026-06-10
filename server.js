@@ -489,17 +489,19 @@ datos.ranking
 
 });
 
+const PORT =
+process.env.PORT
+||
+3000;
+
 app.listen(
-3000,
-"192.168.100.21",
+
+PORT,
+
 ()=>{
 
 console.log(
-"Servidor iniciado"
-);
-
-console.log(
-"http://localhost:3000/quiniela2026"
+`Servidor iniciado en puerto ${PORT}`
 );
 
 });
