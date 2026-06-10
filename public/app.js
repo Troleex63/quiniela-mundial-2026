@@ -740,5 +740,94 @@ document
 html;
 
 }
+async function mostrarRankingPublico(){
+
+const datos=
+
+await api(
+"/ranking"
+);
+
+let html=
+
+`
+
+<div class="card">
+
+<h2>
+
+🏆 Ranking
+
+</h2>
+
+`;
+
+const orden=
+
+Object.entries(
+datos
+)
+
+.sort(
+
+(a,b)=>
+
+b[1]-a[1]
+
+);
+
+if(
+orden.length===0
+){
+
+html+=
+
+"<p>Aún no hay puntos</p>";
+
+}
+
+else{
+
+orden.forEach(
+
+u=>{
+
+html+=`
+
+<p>
+
+${u[0]}
+
+—
+
+${u[1]} pts
+
+</p>
+
+`;
+
+}
+
+);
+
+}
+
+html+=
+"</div>";
+
+document
+.body
+
+.insertAdjacentHTML(
+
+"beforeend",
+
+html
+
+);
+
+}
 
 cargar();
+
+mostrarRankingPublico();

@@ -361,6 +361,13 @@ let puntos=0;
 
 if(
 
+partido.ganador
+!==
+
+"Empate"
+
+&&
+
 u.equipo===
 
 partido.ganador
@@ -373,13 +380,19 @@ puntos+=1;
 
 if(
 
-u.marcador===
+partido.ganador===
 
-partido.marcador
+"Empate"
+
+&&
+
+u.equipo===
+
+"Empate"
 
 ){
 
-puntos+=2;
+puntos+=1;
 
 }
 
