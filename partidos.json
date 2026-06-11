@@ -3,7 +3,7 @@
     "id": "P001",
     "local": "México",
     "visitante": "Sudáfrica",
-    "fecha": "2026-06-11 13:00:00",
+    "fecha": "2026-06-11 13:00",
     "marcador": "",
     "ganador": ""
   },
@@ -11,7 +11,567 @@
     "id": "P002",
     "local": "Corea del Sur",
     "visitante": "Chequia",
-    "fecha": "2026-06-11 20:00:00",
+    "fecha": "2026-06-11 20:00",
+    "marcador": "",
+    "ganador": ""
+  },
+  {
+    "id": "P003",
+    "local": "Canadá",
+    "visitante": "Bosnia y Herzegovina",
+    "fecha": "2026-06-12 13:00",
+    "marcador": "",
+    "ganador": ""
+  },
+  {
+    "id": "P004",
+    "local": "Estados Unidos",
+    "visitante": "Paraguay",
+    "fecha": "2026-06-12 19:00",
+    "marcador": "",
+    "ganador": ""
+  },
+  {
+    "id": "P005",
+    "local": "Catar",
+    "visitante": "Suiza",
+    "fecha": "2026-06-13 13:00",
+    "marcador": "",
+    "ganador": ""
+  },
+  {
+    "id": "P006",
+    "local": "Brasil",
+    "visitante": "Marruecos",
+    "fecha": "2026-06-13 16:00",
+    "marcador": "",
+    "ganador": ""
+  },
+  {
+    "id": "P007",
+    "local": "Haití",
+    "visitante": "Escocia",
+    "fecha": "2026-06-13 19:00",
+    "marcador": "",
+    "ganador": ""
+  },
+  {
+    "id": "P008",
+    "local": "Australia",
+    "visitante": "Turquía",
+    "fecha": "2026-06-13 22:00",
+    "marcador": "",
+    "ganador": ""
+  },
+  {
+    "id": "P009",
+    "local": "Alemania",
+    "visitante": "Curazao",
+    "fecha": "2026-06-14 11:00",
+    "marcador": "",
+    "ganador": ""
+  },
+  {
+    "id": "P010",
+    "local": "Paises Bajos",
+    "visitante": "Japón",
+    "fecha": "2026-06-14 14:00",
+    "marcador": "",
+    "ganador": ""
+  },
+  {
+    "id": "P011",
+    "local": "Costa de Marfil",
+    "visitante": "Ecuador",
+    "fecha": "2026-06-14 17:00",
+    "marcador": "",
+    "ganador": ""
+  },
+  {
+    "id": "P012",
+    "local": "Suezia",
+    "visitante": "Túnez",
+    "fecha": "2026-06-14 20:00",
+    "marcador": "",
+    "ganador": ""
+  },
+  {
+    "id": "P013",
+    "local": "España",
+    "visitante": "Cabo Verde",
+    "fecha": "2026-06-15 10:00",
+    "marcador": "",
+    "ganador": ""
+  },
+  {
+    "id": "P014",
+    "local": "Bélgica",
+    "visitante": "Egipto",
+    "fecha": "2026-06-15 13:00",
+    "marcador": "",
+    "ganador": ""
+  },
+  {
+    "id": "P015",
+    "local": "Arabia Saudita",
+    "visitante": "Uruguay",
+    "fecha": "2026-06-15 16:00",
+    "marcador": "",
+    "ganador": ""
+  },
+  {
+    "id": "P016",
+    "local": "Irán",
+    "visitante": "Nueva Zelanda",
+    "fecha": "2026-06-15 19:00",
+    "marcador": "",
+    "ganador": ""
+  },
+  {
+    "id": "P017",
+    "local": "Francia",
+    "visitante": "Senegal",
+    "fecha": "2026-06-16 13:00",
+    "marcador": "",
+    "ganador": ""
+  },
+  {
+    "id": "P018",
+    "local": "Irak",
+    "visitante": "Noruega",
+    "fecha": "2026-06-16 16:00",
+    "marcador": "",
+    "ganador": ""
+  },
+  {
+    "id": "P019",
+    "local": "Argentina",
+    "visitante": "Argelia",
+    "fecha": "2026-06-16 19:00",
+    "marcador": "",
+    "ganador": ""
+  },
+  {
+    "id": "P020",
+    "local": "Austria",
+    "visitante": "Jordania",
+    "fecha": "2026-06-16 22:00",
+    "marcador": "",
+    "ganador": ""
+  },
+  {
+    "id": "P021",
+    "local": "Portugal",
+    "visitante": "República Democrática del Congo",
+    "fecha": "2026-06-17 11:00",
+    "marcador": "",
+    "ganador": ""
+  },
+  {
+    "id": "P022",
+    "local": "Inglaterra",
+    "visitante": "Croacia",
+    "fecha": "2026-06-17 14:00",
+    "marcador": "",
+    "ganador": ""
+  },
+  {
+    "id": "P023",
+    "local": "Ghana",
+    "visitante": "Panamá",
+    "fecha": "2026-06-17 17:00",
+    "marcador": "",
+    "ganador": ""
+  },
+  {
+    "id": "P024",
+    "local": "Uzbekistán",
+    "visitante": "Colombia",
+    "fecha": "2026-06-17 20:00",
+    "marcador": "",
+    "ganador": ""
+  },
+  {
+    "id": "P025",
+    "local": "Chequia",
+    "visitante": "Sudáfrica",
+    "fecha": "2026-06-18 10:00",
+    "marcador": "",
+    "ganador": ""
+  },
+  {
+    "id": "P026",
+    "local": "Suiza",
+    "visitante": "Bosnia y Herzegovina",
+    "fecha": "2026-06-18 13:00",
+    "marcador": "",
+    "ganador": ""
+  },
+  {
+    "id": "P027",
+    "local": "Canadá",
+    "visitante": "Catar",
+    "fecha": "2026-06-18 16:00",
+    "marcador": "",
+    "ganador": ""
+  },
+  {
+    "id": "P028",
+    "local": "México",
+    "visitante": "Corea del Sur",
+    "fecha": "2026-06-18 19:00",
+    "marcador": "",
+    "ganador": ""
+  },
+  {
+    "id": "P029",
+    "local": "Estados Unidos",
+    "visitante": "Australia",
+    "fecha": "2026-06-19 13:00",
+    "marcador": "",
+    "ganador": ""
+  },
+  {
+    "id": "P030",
+    "local": "Escocia",
+    "visitante": "Marruecos",
+    "fecha": "2026-06-19 16:00",
+    "marcador": "",
+    "ganador": ""
+  },
+  {
+    "id": "P031",
+    "local": "Brasil",
+    "visitante": "Haití",
+    "fecha": "2026-06-19 18:30",
+    "marcador": "",
+    "ganador": ""
+  },
+  {
+    "id": "P032",
+    "local": "Turquía",
+    "visitante": "Paraguay",
+    "fecha": "2026-06-19 21:00",
+    "marcador": "",
+    "ganador": ""
+  },
+  {
+    "id": "P033",
+    "local": "Paises Bajos",
+    "visitante": "Suecia",
+    "fecha": "2026-06-20 11:00",
+    "marcador": "",
+    "ganador": ""
+  },
+  {
+    "id": "P034",
+    "local": "Alemania",
+    "visitante": "Costa de Marfil",
+    "fecha": "2026-06-20 14:00",
+    "marcador": "",
+    "ganador": ""
+  },
+  {
+    "id": "P035",
+    "local": "Ecuador",
+    "visitante": "Curazao",
+    "fecha": "2026-06-20 18:00",
+    "marcador": "",
+    "ganador": ""
+  },
+  {
+    "id": "P036",
+    "local": "Túnez",
+    "visitante": "Japón",
+    "fecha": "2026-06-20 22:00",
+    "marcador": "",
+    "ganador": ""
+  },
+  {
+    "id": "P037",
+    "local": "España",
+    "visitante": "Arabia Saudita",
+    "fecha": "2026-06-21 10:00",
+    "marcador": "",
+    "ganador": ""
+  },
+  {
+    "id": "P038",
+    "local": "Bélgica",
+    "visitante": "Irán",
+    "fecha": "2026-06-21 13:00",
+    "marcador": "",
+    "ganador": ""
+  },
+  {
+    "id": "P039",
+    "local": "Uruguay",
+    "visitante": "Cabo Verde",
+    "fecha": "2026-06-21 16:00",
+    "marcador": "",
+    "ganador": ""
+  },
+  {
+    "id": "P040",
+    "local": "Nueva Zelanda",
+    "visitante": "Egipto",
+    "fecha": "2026-06-21 19:00",
+    "marcador": "",
+    "ganador": ""
+  },
+  {
+    "id": "P041",
+    "local": "Argentina",
+    "visitante": "Austria",
+    "fecha": "2026-06-22 11:00",
+    "marcador": "",
+    "ganador": ""
+  },
+  {
+    "id": "P042",
+    "local": "Francia",
+    "visitante": "Irak",
+    "fecha": "2026-06-22 13:00",
+    "marcador": "",
+    "ganador": ""
+  },
+  {
+    "id": "P043",
+    "local": "Noruega",
+    "visitante": "Senegal",
+    "fecha": "2026-06-22 18:00",
+    "marcador": "",
+    "ganador": ""
+  },
+  {
+    "id": "P044",
+    "local": "Jordania",
+    "visitante": "Argelia",
+    "fecha": "2026-06-22 21:00",
+    "marcador": "",
+    "ganador": ""
+  },
+  {
+    "id": "P045",
+    "local": "Portugal",
+    "visitante": "Uzbekistán",
+    "fecha": "2026-06-23 11:00",
+    "marcador": "",
+    "ganador": ""
+  },
+  {
+    "id": "P046",
+    "local": "Inglaterra",
+    "visitante": "Ghana",
+    "fecha": "2026-06-23 14:00",
+    "marcador": "",
+    "ganador": ""
+  },
+  {
+    "id": "P047",
+    "local": "Panamá",
+    "visitante": "Croacia",
+    "fecha": "2026-06-23 11:00",
+    "marcador": "",
+    "ganador": ""
+  },
+  {
+    "id": "P048",
+    "local": "Colombia",
+    "visitante": "República Democrática del Congo",
+    "fecha": "2026-06-23 20:00",
+    "marcador": "",
+    "ganador": ""
+  },
+  {
+    "id": "P049",
+    "local": "Suiza",
+    "visitante": "Canadá",
+    "fecha": "2026-06-24 11:00",
+    "marcador": "",
+    "ganador": ""
+  },
+  {
+    "id": "P050",
+    "local": "Bosnia y Herzegovina",
+    "visitante": "Catar",
+    "fecha": "2026-06-24 13:00",
+    "marcador": "",
+    "ganador": ""
+  },
+  {
+    "id": "P051",
+    "local": "Marruecos",
+    "visitante": "Haití",
+    "fecha": "2026-06-24 16:00",
+    "marcador": "",
+    "ganador": ""
+  },
+  {
+    "id": "P052",
+    "local": "Escocia",
+    "visitante": "Brasil",
+    "fecha": "2026-06-24 16:00",
+    "marcador": "",
+    "ganador": ""
+  },
+  {
+    "id": "P053",
+    "local": "Sudáfrica",
+    "visitante": "Corea del Sur",
+    "fecha": "2026-06-24 19:00",
+    "marcador": "",
+    "ganador": ""
+  },
+  {
+    "id": "P054",
+    "local": "Chequia",
+    "visitante": "México",
+    "fecha": "2026-06-24 19:00",
+    "marcador": "",
+    "ganador": ""
+  },
+  {
+    "id": "P055",
+    "local": "Túnez",
+    "visitante": "Costa de Marfil",
+    "fecha": "2026-06-25 14:00",
+    "marcador": "",
+    "ganador": ""
+  },
+  {
+    "id": "P056",
+    "local": "Ecuador",
+    "visitante": "Alemania",
+    "fecha": "2026-06-25 14:00",
+    "marcador": "",
+    "ganador": ""
+  },
+  {
+    "id": "P057",
+    "local": "Túnez",
+    "visitante": "Paises Bajos",
+    "fecha": "2026-06-25 17:00",
+    "marcador": "",
+    "ganador": ""
+  },
+  {
+    "id": "P058",
+    "local": "Japón",
+    "visitante": "Suecia",
+    "fecha": "2026-06-25 17:00",
+    "marcador": "",
+    "ganador": ""
+  },
+  {
+    "id": "P059",
+    "local": "Turquía",
+    "visitante": "Estados Unidos",
+    "fecha": "2026-06-25 20:00",
+    "marcador": "",
+    "ganador": ""
+  },
+  {
+    "id": "P060",
+    "local": "Paraguay",
+    "visitante": "Australia",
+    "fecha": "2026-06-25 20:00",
+    "marcador": "",
+    "ganador": ""
+  },
+  {
+    "id": "P061",
+    "local": "Noruega",
+    "visitante": "Francia",
+    "fecha": "2026-06-26 13:00",
+    "marcador": "",
+    "ganador": ""
+  },
+  {
+    "id": "P062",
+    "local": "Senegal",
+    "visitante": "Irak",
+    "fecha": "2026-06-26 13:00",
+    "marcador": "",
+    "ganador": ""
+  },
+  {
+    "id": "P063",
+    "local": "Cabo Verde",
+    "visitante": "Arabia Saudita",
+    "fecha": "2026-06-26 18:00",
+    "marcador": "",
+    "ganador": ""
+  },
+  {
+    "id": "P064",
+    "local": "Uruguay",
+    "visitante": "España",
+    "fecha": "2026-06-26 18:00",
+    "marcador": "",
+    "ganador": ""
+  },
+  {
+    "id": "P065",
+    "local": "Nueva Zelanda",
+    "visitante": "Bélgica",
+    "fecha": "2026-06-26 21:00",
+    "marcador": "",
+    "ganador": ""
+  },
+  {
+    "id": "P066",
+    "local": "Egipto",
+    "visitante": "Irán",
+    "fecha": "2026-06-26 21:00",
+    "marcador": "",
+    "ganador": ""
+  },
+  {
+    "id": "P067",
+    "local": "Panamá",
+    "visitante": "Inglaterra",
+    "fecha": "2026-06-27 15:00",
+    "marcador": "",
+    "ganador": ""
+  },
+  {
+    "id": "P068",
+    "local": "Croacia",
+    "visitante": "Ghana",
+    "fecha": "2026-06-27 15:00",
+    "marcador": "",
+    "ganador": ""
+  },
+  {
+    "id": "P069",
+    "local": "Colombia",
+    "visitante": "Portugal",
+    "fecha": "2026-06-27 17:30",
+    "marcador": "",
+    "ganador": ""
+  },
+  {
+    "id": "P070",
+    "local": "República Democrática del Congo",
+    "visitante": "Uzbekistán",
+    "fecha": "2026-06-27 17:30",
+    "marcador": "",
+    "ganador": ""
+  },
+  {
+    "id": "P067",
+    "local": "Argelia",
+    "visitante": "Austria",
+    "fecha": "2026-06-27 20:00",
+    "marcador": "",
+    "ganador": ""
+  },
+  {
+    "id": "P067",
+    "local": "Jordania",
+    "visitante": "Argentina",
+    "fecha": "2026-06-27 20:00",
     "marcador": "",
     "ganador": ""
   }
